@@ -33,7 +33,4 @@ To use the script, follow these steps:
 
 Before running the script, replace `gitlab_username` and `github_username` with your respective GitLab and GitHub usernames. Also, populate the `projects` array with the URLs of the GitLab projects you want to migrate.
 
-### Conclusion
-
-This script provides a seamless way to migrate your projects from GitLab to GitHub, archiving them on GitLab after successful migration. It showcases the ability to automate repetitive tasks using Bash scripting, making the migration process efficient and error-free.
 
