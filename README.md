@@ -1,4 +1,10 @@
 ## Migration Script
+<head>
+  <meta property="og:title" content="Your Project Title" />
+  <meta property="og:description" content="A brief description of your project." />
+  <meta property="og:image" content="URL_to_an_image_you_want_to_display" />
+  <meta property="og:url" content="URL_of_your_project_on_GitHub" />
+</head>
 
 This section contains a Bash script that facilitates the migration of your projects from GitLab to GitHub. Here's a step-by-step breakdown of the script and how to use it:
 
